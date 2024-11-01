@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import MaritimeImage from '@/images/MaritimeImage.jpg';
+import MaritimeImage from '@/images/Colombia_Gloria.jpg';
 
 const AboutSection = () => {
     return (

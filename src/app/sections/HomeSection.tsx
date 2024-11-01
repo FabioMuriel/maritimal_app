@@ -10,9 +10,9 @@ const HomeSection = () => {
         alt="Fondo Marítimo"
         layout="fill"
         objectFit="cover"
-        className="opacity-60"
+        className="opacity-100"
       />
-      
+
       {/* Texto de bienvenida */}
       <div className="absolute inset-0 flex items-center justify-center text-center text-white">
         <div className="px-4">
