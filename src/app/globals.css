@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.links-efects:hover {
+    @apply transform scale-125;
+    @apply transition-transform duration-300;
+    @apply ease-in-out;
+}
