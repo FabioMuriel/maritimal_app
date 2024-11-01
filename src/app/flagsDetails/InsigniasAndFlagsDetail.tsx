@@ -10,10 +10,10 @@ const InsigniasAndFlagsDetail = () => {
     const insignias = [
         { id: 1, src: PabellonPresidencialImage, title: 'Pabellón Presidencial', description: 'Pabellón Presidencial' },
         { id: 2, src: MinistroDeDefensaImage, title: 'Ministro de Defensa', description: 'Ministro de Defensa' },
-        { id: 3, src: ComandanteGeneralDeLasFuerzasMilitares, title: 'Pabellón Presidencial', description: 'Comandante General de las Fuerzas Militares' },
-        { id: 4, src: ComandanteArmadaNacional, title: 'Pabellón Presidencial', description: 'Comandante Armada Nacional' },
-        { id: 5, src: AlmiranteOGeneralDeLM, title: 'Pabellón Presidencial', description: 'Almirante o General de I.M' },
-        { id: 6, src: VicealmiranteOMayorGeneralDeLM, title: 'Pabellón Presidencial', description: 'Vicealmirante o Mayor General de I.M' }
+        { id: 3, src: ComandanteGeneralDeLasFuerzasMilitares, title: 'Comandante General de las Fuerzas Militares', description: 'Comandante General de las Fuerzas Militares' },
+        { id: 4, src: ComandanteArmadaNacional, title: 'Comandante Armada Nacional', description: 'Comandante Armada Nacional' },
+        { id: 5, src: AlmiranteOGeneralDeLM, title: 'Almirante o General de I.M', description: 'Almirante o General de I.M' },
+        { id: 6, src: VicealmiranteOMayorGeneralDeLM, title: 'Vicealmirante o Mayor General de I.M', description: 'Vicealmirante o Mayor General de I.M' }
     ];
 
     return (
